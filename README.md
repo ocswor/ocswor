@@ -18,12 +18,12 @@ Here are some ideas to get you started:
 
 #### Contact Me
 
-* 个人 blog：[roseduan.com](https://code.dreamqq.cn/)，一些学习笔记和生活感悟发布在上面！
+* 个人 blog：[红尘客栈](https://code.dreamqq.cn/)，一些学习笔记和生活感悟发布在上面！
 
 #### Project
 
-* [rosedb](https://github.com/ocswor/hello)：一个Go语言实现的压测工具
-* [algo-learn](https://github.com/ocswor/GoNetowrk)：学习算法和数据结构的练习素材，包含一些 leetcode 题目
+* [hello](https://github.com/ocswor/hello)：一个Go语言实现的压测工具
+* [GoLeetCode](https://github.com/ocswor/GoLeetCode)：学习算法和数据结构的练习素材，包含一些 leetcode 题目
 
 #### My Github Stats
 
