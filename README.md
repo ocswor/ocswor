@@ -14,3 +14,19 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+### Hi there 👋，我是 ocswor，一个还在努力学习的全栈开发者
+
+#### Contact Me
+
+* 个人 blog：[roseduan.com](https://code.dreamqq.cn/)，一些学习笔记和生活感悟发布在上面！
+
+#### Project
+
+* [rosedb](https://github.com/ocswor/hello)：一个Go语言实现的压测工具
+* [algo-learn](https://github.com/ocswor/GoNetowrk)：学习算法和数据结构的练习素材，包含一些 leetcode 题目
+
+#### My Github Stats
+
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=roseduan)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=roseduan&hide=javascript,html,css)](https://github.com/anuraghazra/github-readme-stats)
