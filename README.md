@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 
 #### Contact Me
 
-* 个人 blog：[红尘客栈](https://code.dreamqq.cn/)，一些学习笔记和生活感悟发布在上面！
+* 语雀blog：[红尘客栈](https://www.yuque.com/yijialiang)，一些学习笔记和生活感悟发布在上面！
 
 #### Project
 
